@@ -32,7 +32,7 @@ We are a team of seasoned technology specialists who are capable of envisioning 
 We look forward to collaborating with like-minded developers in the future and working to make valuable contributions to the industry.
 
 ### How we work 
-I remind myself often to revisit my intentions. I work with reusability and readability in mind. I strive to create code that will endure through time. I want the user, be they developer or customer, to feel their needs were intuited. I approach the task at hand with curiosity and humility. This allows me to take roadblocks in stride, and savor opportunities to learn and absorb information which will help me build better next time.
+We map a strategy, build a solution or elevate your product experience with focused engagements available as standalone offerings or as a part of your project’s service stack. We work with reusability and readability in mind. we strive to create code that will endure through time. We approach the task at hand with curiosity and humility. This allows us to take roadblocks in stride, and savor opportunities to learn and absorb information which will help us build better next time.
 
  ### 📫 How to reach us: 
 - [LinkedIn](https://www.linkedin.com/company/xperture-inc/)
